@@ -2,6 +2,6 @@
 
 
 
-git add . && git commit -m "$(date '+%A, %d.%m.%Y %H:%M:%S:%N')" && git push 
+git add . && git commit -m "$(date '+%d.%m.%Y %H:%M')" && git push 
 
 
